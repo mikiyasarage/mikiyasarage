@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 - 📱 Cross-platform **Flutter** mobile developer  
-- 🤖 Android development (Kotlin/Java)  
-- 🍎 iOS development (Swift/Flutter)  
+- 🤖 Android development   
+- 🍎 iOS development  
 - 🧩 Clean, scalable code lover  
 - ⚡ UI/UX, animations, and smooth app experiences  
 - ☁️ Exploring backend + cloud integration  
