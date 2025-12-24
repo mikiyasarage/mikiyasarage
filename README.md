@@ -11,7 +11,8 @@
 - 🍎 iOS development  
 - 🧩 Clean, scalable code lover  
 - ⚡ UI/UX, animations, and smooth app experiences  
-- ☁️ Exploring backend + cloud integration  
+- ☁️ Exploring backend + cloud integration
+- 🐘 Basic **PHP** & MySQL knowledge for backend APIs 
 
 ---
 
@@ -24,7 +25,6 @@
   <img src="https://cdn.dribbble.com/users/1787323/screenshots/6180374/kotlin.gif" width="60" title="Kotlin" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Android_logo_%282014%E2%80%932019%29.svg" width="55" title="Android" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="55" title="Swift" />
 </p>
 
 ---
