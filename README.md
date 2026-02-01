@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" title="Git" />
   <img src="https://img.icons8.com/color/96/github--v1.png" width="55" title="GitHub" />
   <img src="https://img.icons8.com/color/96/firebase.png" width="55" title="Firebase" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/96/external-api-cyber-security-soft-fill-soft-fill-juicy-fish.png" width="55" title="REST API" />
+  <img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/api-icon.png" width="55" title="REST API" />
 </p>
 
 
