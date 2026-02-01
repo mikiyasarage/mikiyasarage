@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=4F9DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mikiyas+Arage;Mobile+App+Developer;Android+%7C+iOS+%7C+Flutter" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=4F9DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mikiyas+Arage;Backend+|+Mobile+App+Developer;Android+%7C+iOS+%7C+Flutter" alt="Typing Animation" />
 </h1>
 
 ---
