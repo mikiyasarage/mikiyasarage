@@ -38,17 +38,6 @@
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/96/external-api-cyber-security-soft-fill-soft-fill-juicy-fish.png" width="55" title="REST API" />
 </p>
 
----
-
-## 🔥 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikiyas-0001&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikiyas-0001&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-</p>
 
 ---
 
