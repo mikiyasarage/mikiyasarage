@@ -23,7 +23,6 @@
   <img src="https://img.icons8.com/color/96/flutter.png" width="55" title="Flutter" />
   <img src="https://img.icons8.com/color/96/dart.png" width="55" title="Dart" />
   <img src="https://cdn.dribbble.com/users/1787323/screenshots/6180374/kotlin.gif" width="60" title="Kotlin" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Android_logo_%282014%E2%80%932019%29.svg" width="55" title="Android" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" title="Java" />
 </p>
 
@@ -56,7 +55,7 @@
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikiyas-0001&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikiyasarage&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
